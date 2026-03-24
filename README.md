@@ -2,6 +2,8 @@
 
 ## Скриншоты
 <img width="973" height="165" alt="image" src="https://github.com/user-attachments/assets/e5bf76ee-6ec7-469c-b7b6-26c7b5a560a1" />
+<img width="698" height="171" alt="image" src="https://github.com/user-attachments/assets/d93caf9d-8904-42ec-96b1-3ef8977146ee" />
+
 
 
 ## Описание предметной области
